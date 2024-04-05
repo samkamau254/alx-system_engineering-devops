@@ -1,1 +1,1 @@
- Info  about the domain and subdomains
+0x10. HTTPS SSL
